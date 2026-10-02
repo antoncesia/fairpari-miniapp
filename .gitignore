@@ -4,3 +4,7 @@ src/
 CLAUDE.md
 *.password.txt
 .DS_Store
+bot/.env
+bot/.venv/
+bot/data/
+__pycache__/
